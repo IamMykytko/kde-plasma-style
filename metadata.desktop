@@ -12,11 +12,17 @@ X-KDE-PluginInfo-License=GPLv3
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-API=5.0
 
+[Settings]
+FallbackTheme=breeze-dark
+
 [ContrastEffect]
 enabled=true
-contrast=0.25
-intensity=1.1
-saturation=5
+contrast=0.3
+intensity=1.9
+saturation=1.9
 
 [AdaptiveTransparency]
+enabled=true
+
+[BlurBehindEffect]
 enabled=true
